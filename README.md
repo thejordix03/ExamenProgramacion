@@ -1,2 +1,2 @@
 # ExamenProgramacion
-2a convocatoria Programación 20025
+2a convocatoria Programación 2025
